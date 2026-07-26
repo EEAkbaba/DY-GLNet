@@ -8,6 +8,22 @@ The proposed approach builds upon GLNet as the baseline framework and improves r
 
 The method is based on the GLNet architecture proposed for remote sensing scene classification under clear and cloudy environments. Dynamic convolution modules are incorporated into the network to improve its adaptability to varying scene and cloud conditions.
 
+## Architecture
+
+The overall architecture of the proposed DY-GLNet framework is shown below.
+
+![DY-GLNet architecture](images/architecture.png)
+
+## Feature Visualization
+
+The figure below compares representative cloudy remote sensing images with the corresponding feature maps produced by the baseline and proposed models.
+
+- **(a)** Two input images from the RSSCN7-cloudy dataset
+- **(b)** Corresponding feature maps extracted from the first stage of the GLNet backbone
+- **(c)** Corresponding feature maps extracted from the first stage of the DY-GLNet backbone
+
+![Feature visualization](images/features.png)
+
 ## Requirements
 
 - Python 3.6+
