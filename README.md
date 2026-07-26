@@ -23,7 +23,7 @@ The figure below compares representative cloudy remote sensing images with the c
 - **(c)** Corresponding feature maps extracted from the first stage of the DY-GLNet backbone
 
 <p align="center">
-  <img src="images/features.png" alt="Feature visualization" width="600">
+  <img src="images/features.png" alt="Feature visualization" width="700">
 </p>
 
 ## Requirements
