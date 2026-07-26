@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Experiment outputs
+checkpoints/
+saved_models/
+new_saved_models/
+logs/
+runs/
+outputs/
+results/
+feats/
+correct_notcorrect/
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+
+# System files
+.DS_Store
+Thumbs.db
