@@ -51,12 +51,15 @@ After downloading, place the dataset under the following directory:
 ```text
 data/
 ```
-
 ## Pretrained Models
 
 The trained DY-GLNet and DY-ResNet50 models can be downloaded from:
 
 [Download DY-GLNet and DY-ResNet50 models from Google Drive](https://drive.google.com/drive/folders/1JUNKdFGRo5YeT6jGnEDdyIZ-V1u-Wutb?usp=sharing)
+
+Additionally, download the dynamic ResNet-50 model pretrained on ImageNet:
+
+[Download the dynamic ResNet-50 model pretrained on ImageNet](https://drive.google.com/file/d/1LdworgPUgQjJF1o1dADr3qww5JsIGB7d/view?usp=sharing)
 
 After downloading the models, update the corresponding checkpoint paths in the Python scripts.
 
