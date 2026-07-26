@@ -2,6 +2,8 @@
 
 This repository contains the implementation of the paper **“Improved Scene Classification by Dynamic CNNs.”**
 
+**Paper:** [IEEE ICECS 2023](https://doi.org/10.1109/ICECS58634.2023.10382836)
+
 The proposed approach builds upon GLNet as the baseline framework and improves remote sensing scene classification under clear and cloudy conditions through dynamic convolution.
 
 ## Overview
